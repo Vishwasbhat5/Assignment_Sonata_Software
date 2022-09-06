@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.day_three.Employee"/>
+    <fullyQualifiedTypeName name="com.sonata.Employee"/>
+    <fullyQualifiedTypeName name="org.assertj.core.api.Assertions"/>
+    <fullyQualifiedTypeName name="com.sonata.model.Employee"/>
+    <fullyQualifiedTypeName name="com.sonata.Impl.EmpImpl"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="com.sonata.exceptionone.MyOwnException"/>
+    <fullyQualifiedTypeName name="com.sonata.calculator.calc_one"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.sonata.Student_Product.ArrayListDemo"/>
+    <fullyQualifiedTypeName name="com.sonata.dayfive.BookDAO"/>
+    <fullyQualifiedTypeName name="com.sonata.dayfive.Book"/>
+</qualifiedTypeNameHistroy>

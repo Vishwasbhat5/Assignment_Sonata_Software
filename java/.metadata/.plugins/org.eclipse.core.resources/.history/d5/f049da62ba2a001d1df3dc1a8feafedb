@@ -1,0 +1,17 @@
+package Assignment_DayThree.secquestion;
+
+public class Emp_Excep {
+
+	public static void main(String[] args) throws Self_Excep
+	{
+		int yearlySalary = 10000;
+		if(yearlySalary<100000)
+		{
+			throw new Self_Excep("Salary is less than 10000");
+		}
+		else 
+		{
+				System.out.println("Salary is not less than 10000");
+			}
+	}
+}
