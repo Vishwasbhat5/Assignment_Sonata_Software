@@ -1,7 +1,0 @@
-package Assignment_DayThree.secquestion;
-
-public class Self_Excep extends Exception {
-	Self_Excep(String s) {
-		super(s);
-	}
-}

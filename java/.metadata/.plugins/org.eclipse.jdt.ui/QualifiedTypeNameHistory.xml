@@ -14,4 +14,6 @@
     <fullyQualifiedTypeName name="com.sonata.Student_Product.ArrayListDemo"/>
     <fullyQualifiedTypeName name="com.sonata.dayfive.BookDAO"/>
     <fullyQualifiedTypeName name="com.sonata.dayfive.Book"/>
+    <fullyQualifiedTypeName name="com.sonata.training.Model.Employee"/>
+    <fullyQualifiedTypeName name="com.sonata.training.Repository.EmployeeRepository"/>
 </qualifiedTypeNameHistroy>
